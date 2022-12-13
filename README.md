@@ -1,5 +1,5 @@
 ## Getting Started with Azure Function
-### Last updated: March 8th 2021
+### Last updated: December 12th 2022
 
 #### Project Structure
 The main project folder (<project_root>) can contain the following files:
